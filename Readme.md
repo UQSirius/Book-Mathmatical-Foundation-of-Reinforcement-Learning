@@ -52,7 +52,7 @@ I sincerely hope this book can help readers smoothly enter the exciting field of
   title={Mathematical Foundations of Reinforcement Learning},
   author={S. Zhao},
   year={2025},
-  publisher={Springer Nature Press}
+  publisher={Springer Press}
 }
 ```
 # Lecture videos 
