@@ -146,6 +146,9 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 
 - https://github.com/jwk1rose/RL_Learning by Wenkang Ji (Feb 2024)
 
+*Matlab:*
+-  https://github.com/EveryDayIsaSong/MATLAB-Code-for-Mathematical-Foundation-of-Reinforcement-Learning (by Yucheng Mao, Jan 2026)
+
 *R:*
 
 - https://github.com/NewbieToEverything/Code-Mathmatical-Foundation-of-Reinforcement-Learning
@@ -164,6 +167,8 @@ by a graduate student from UC Davis
 
 *Chinese:* 
 
+- https://github.com/Peanut-Study/Reinforcement-Learning-Study-Note/tree/main (Jan 2026)
+  
 - https://zhuanlan.zhihu.com/p/692207843 
 
 - https://blog.csdn.net/qq_64671439/category_12540921.html
@@ -181,6 +186,8 @@ by a graduate student from UC Davis
 There are also many others notes made by many other readers on the Internet. I am not able to put them all here. You are welcome to recommend to me if you find a good one.
 
 **Bilibili videos made based on my course**
+
+- https://www.bilibili.com/video/BV1DMBYB6Edo （Jan 2026）
 
 - https://www.bilibili.com/video/BV1fW421w7NH
 
