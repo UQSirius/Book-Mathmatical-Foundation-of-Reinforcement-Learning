@@ -159,8 +159,7 @@ Many enthusiastic readers sent me the source code or notes that they developed w
 
 - https://github.com/purundong/test_rl
 
-
-**Notes and others**
+**Study notes**
 
 *English:*
 
@@ -189,7 +188,11 @@ by a graduate student from UC Davis
 
 There are also many others notes made by many other readers on the Internet. I am not able to put them all here. You are welcome to recommend to me if you find a good one.
 
-**Bilibili videos made based on my course**
+**Chinese PPT**
+
+- https://github.com/manyouma/RobotIntelli_sztu (by Manyou Ma, July 2026)
+
+**Chinese videos made based on my course (Bilibili)**
 
 - https://www.bilibili.com/video/BV1DMBYB6Edo （Jan 2026）
 
